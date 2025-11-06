@@ -1,0 +1,61 @@
+2025-11-06 01:12:28,710 - market_monitor - INFO - Database initialized
+2025-11-06 01:13:46,158 - market_monitor - INFO - 🚀 Starting market-based discovery...
+2025-11-06 01:13:46,158 - market_monitor - INFO - 🔍 Checking: CSGO_Trader_1
+2025-11-06 01:13:46,158 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/76561197960287930
+2025-11-06 01:13:57,601 - market_monitor - INFO - 🔍 Checking: Skin_Collector
+2025-11-06 01:13:57,602 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/id/skincollector
+2025-11-06 01:14:04,022 - market_monitor - INFO - 🔍 Checking: Trade_Account_7
+2025-11-06 01:14:04,023 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/76561197960287931
+2025-11-06 01:14:10,592 - market_monitor - INFO - 🔍 Checking: Trader_3931
+2025-11-06 01:14:10,593 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119882746141
+2025-11-06 01:14:20,281 - market_monitor - INFO - 🔍 Checking: Trader_7745
+2025-11-06 01:14:20,282 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119851358488
+2025-11-06 01:14:29,933 - market_monitor - INFO - 🔍 Checking: Trader_6106
+2025-11-06 01:14:29,933 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119997182702
+2025-11-06 01:14:39,506 - market_monitor - INFO - 🔍 Checking: Trader_8934
+2025-11-06 01:14:39,507 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119915675353
+2025-11-06 01:14:49,027 - market_monitor - INFO - 🔍 Checking: Trader_9938
+2025-11-06 01:14:49,027 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119970819572
+2025-11-06 01:14:58,810 - market_monitor - INFO - 🔍 Checking: Trader_9051
+2025-11-06 01:14:58,811 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119903958384
+2025-11-06 01:15:08,323 - market_monitor - INFO - 🔍 Checking: Trader_3547
+2025-11-06 01:15:08,324 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119828862274
+2025-11-06 01:15:17,853 - market_monitor - INFO - 🔍 Checking: Trader_3380
+2025-11-06 01:15:17,854 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119822414086
+2025-11-06 01:15:27,611 - market_monitor - INFO - 🔍 Checking: Trader_7912
+2025-11-06 01:15:27,612 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119825500608
+2025-11-06 01:15:37,162 - market_monitor - INFO - 🔍 Checking: Trader_8533
+2025-11-06 01:15:37,164 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119977145464
+2025-11-06 01:15:46,863 - market_monitor - INFO - ✅ Market discovery completed. Found 0 targets.
+2025-11-06 01:16:47,106 - market_monitor - INFO - 🚀 Starting market-based discovery...
+2025-11-06 01:16:47,108 - market_monitor - INFO - 🔍 Checking: CSGO_Trader_1
+2025-11-06 01:16:47,108 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/76561197960287930
+2025-11-06 01:16:57,068 - market_monitor - INFO - 🔍 Checking: Skin_Collector
+2025-11-06 01:16:57,069 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/id/skincollector
+2025-11-06 01:17:03,424 - market_monitor - INFO - 🔍 Checking: Trade_Account_7
+2025-11-06 01:17:03,425 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/76561197960287931
+2025-11-06 01:17:09,974 - market_monitor - INFO - 🔍 Checking: Trader_1031
+2025-11-06 01:17:09,975 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119977997874
+2025-11-06 01:17:19,581 - market_monitor - INFO - 🔍 Checking: Trader_5463
+2025-11-06 01:17:19,583 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119843505813
+2025-11-06 01:17:29,205 - market_monitor - INFO - 🔍 Checking: Trader_9518
+2025-11-06 01:17:29,206 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119897630868
+2025-11-06 01:17:38,891 - market_monitor - INFO - 🔍 Checking: Trader_2628
+2025-11-06 01:17:38,893 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119819748925
+2025-11-06 01:17:48,518 - market_monitor - INFO - 🔍 Checking: Trader_3271
+2025-11-06 01:17:48,519 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119831386231
+2025-11-06 01:17:58,152 - market_monitor - INFO - 🔍 Checking: Trader_4970
+2025-11-06 01:17:58,153 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119826142307
+2025-11-06 01:18:07,809 - market_monitor - INFO - 🔍 Checking: Trader_1362
+2025-11-06 01:18:07,810 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119932065767
+2025-11-06 01:18:17,452 - market_monitor - INFO - 🔍 Checking: Trader_3315
+2025-11-06 01:18:17,454 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119982079257
+2025-11-06 01:18:27,093 - market_monitor - INFO - 🔍 Checking: Trader_3282
+2025-11-06 01:18:27,095 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119974869444
+2025-11-06 01:18:36,632 - market_monitor - INFO - 🔍 Checking: Trader_2934
+2025-11-06 01:18:36,634 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/profiles/7656119890843095
+2025-11-06 01:18:46,209 - market_monitor - INFO - ✅ Market discovery completed. Found 0 targets.
+2025-11-06 23:05:54,976 - market_monitor - INFO - 🔍 Checking 1 manual profiles...
+2025-11-06 23:05:54,980 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/id/RGmjerOJghjeroigrhiuo/
+2025-11-06 23:08:25,731 - market_monitor - INFO - 🔍 Checking 1 manual profiles...
+2025-11-06 23:08:25,734 - steam_parser - INFO - 🔍 Checking Steam profile: https://steamcommunity.com/id/konstantintimofeev442/

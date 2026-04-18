@@ -1,0 +1,31 @@
+# Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+
+# Output
+output/
+app.log
+
+# Cache
+.cache/
+
+# Browser profile (Playwright persistent context)
+browser_profile/
+
+# Legacy files
+*.db
+steam_monitor.log
+steam_targets_report.txt
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
